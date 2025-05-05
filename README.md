@@ -4,7 +4,11 @@
 The **Sales Pipeline Analysis Dashboard** provides an in-depth overview of sales performance, opportunities, and revenue distribution across products, regions, and sectors.  
 It enables sales leaders and analysts to track the efficiency of their pipeline, identify top-performing products, and monitor trends across time.
 
----
+
+- **Overview**
+
+  ![DASHBOARD](Output/first.jpg)
+--
 
 ## 📌 Project Overview
 This Power BI dashboard helps visualize the sales funnel—from opportunities generated to revenue realized—across different time frames (monthly and quarterly), regions, and sectors.
@@ -78,9 +82,6 @@ The insights provided can significantly impact decision-making in **sales strate
 ---
 ## 🖼️ Dashboard Snapshots
 
-- **Overview**
-
-  ![DASHBOARD](Output/first.jpg)
 
 - **Product Sales Analysis**
 
